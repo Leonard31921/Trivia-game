@@ -27,6 +27,7 @@ The backend server processes and updates player responses and scores based on re
 
 
 Section 6: User Interface Design
+
 •	Gameplay Screen: Displays a trivia question with four answer options. Players select answers by clicking.
 •	Scoreboard: Updates live scores for each player after every question.
 •	End Screen: Shows final scores and announces the winner.
