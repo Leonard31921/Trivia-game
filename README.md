@@ -1,6 +1,8 @@
-# Section 1: Project Description
 
-The project aims to develop a multiplayer trivia game where two players compete by answering trivia questions. 
+# Section 1: Project Description
+Cybersecurity Trivia Game
+
+The project aims to develop a multiplayer trivia game focusing on cybersecurity topics, build as a console application. 
 The backend is implemented in Java, while the client-side utilizes JavaScript, HTML, and CSS for visuals. 
 WebSockets enable real-time communication between the client and server, allowing the server to manage questions, player sessions, and scoring.
 
@@ -38,4 +40,34 @@ The backend server processes and updates player responses and scores based on re
 •	Scoreboard: Updates live scores for each player after every question.
 
 •	End Screen: Shows final scores and announces the winner.
+
+# Features Implemented so far:
+
+The below backend features have been implemented: 
+
+1. Player Management: Players enter their names at the start, which are used to personalize the game experience.
+   
+2. Question Bank: Includes 10 cybersecurity questions covering topics like malware, encryption, protocols, and security tools.
+   
+3. Score Tracking: Tracks the player’s score, increasing it for each correct answer and displaying it at the end.
+   
+4. Sequential Questioning: Presents each question in order, with multiple-choice options displayed for easy selection.
+   
+5. Answer Validation and Feedback: Ensures only valid answers are accepted and provides feedback on each response (correct or incorrect).
+    
+6. End Summary: Shows the players' final score with a personalized closing message.
+
+ # How to Play
+
+ • Run the program in an eclipse java environment.
+ 
+ • Enter your name when prompted.
+ 
+ • Answer each question by typing the number corresponding to your choice.
+ 
+ • View your score at the end of the game.
+
+
+
+
 
